@@ -11,11 +11,14 @@ Join us for the whole event or drop in as your schedule allows. Snacks and treat
 
 # Map-a-thon Toolkit #
 ## What to do before the Map-a-thon
-* Get an [OpenStreet Map (OSM) account](https://www.openstreetmap.org/user/new)
-* Get an [HOTOSM account](https://tasks.hotosm.org/login) HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects.
+**Accounts**
+* Get an [OpenStreet Map (OSM) account](https://www.openstreetmap.org/user/new). YOu can link this account to your HOTOSM account.
+* Get an [HOTOSM account](https://tasks.hotosm.org/login). You will use to participate in the Mapathon by contributing to humanitarian mapping projects.
+
+**Tutorials and Guides**
 * [Online Tutorial](https://slides.com/amywork/ucsd-mapathon-2023-ucgisweek) made specifically for the Mapathon
-* [OSM Video](https://youtu.be/nswUcgMfKTM) on how to use the task manager.
 * [Mapathon Quick Guide](https://docs.google.com/document/d/1-OMJ0y6-xYml0VSBgfoGKYkuKd0Np3RuYH6pLBRISiU/edit?usp=sharing)
+* [OSM Video](https://youtu.be/nswUcgMfKTM) on how to use the task manager.
 * [HOT OSM Quick Start Guide](https://tasks.hotosm.org/learn/quickstart)
 
 ## What to expect once the Map-a-thon begins
