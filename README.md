@@ -16,7 +16,7 @@ Join us for the whole event or drop in as your schedule allows. Snacks and treat
 * [Online Tutorial](https://slides.com/amywork/ucsd-mapathon-2023-ucgisweek) made specifically for the Mapathon
 * [OSM Video](https://youtu.be/nswUcgMfKTM) on how to use the task manager.
 * [Mapathon Quick Guide](https://docs.google.com/document/d/1-OMJ0y6-xYml0VSBgfoGKYkuKd0Np3RuYH6pLBRISiU/edit?usp=sharing)
-* [HOT OSM Quick Start Guide](ttps://tasks.hotosm.org/learn/quickstart)
+* [HOT OSM Quick Start Guide](https://tasks.hotosm.org/learn/quickstart)
 
 ## What to expect once the Map-a-thon begins
 We will be giving brief tutorials/workshops to get people up to speed and we will have volunteers on hand to get you started and answer questions. 
