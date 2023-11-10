@@ -12,7 +12,7 @@ Join us for the whole event or drop in as your schedule allows. Snacks and treat
 # Map-a-thon Toolkit #
 ## What to do before the Map-a-thon
 **Accounts**
-* Get an [OpenStreet Map (OSM) account](https://www.openstreetmap.org/user/new). YOu can link this account to your HOTOSM account.
+* Get an [OpenStreet Map (OSM) account](https://www.openstreetmap.org/user/new). You can link this account to your HOTOSM account.
 * Get an [HOTOSM account](https://tasks.hotosm.org/login). You will use to participate in the Mapathon by contributing to humanitarian mapping projects.
 
 **Tutorials and Guides**
