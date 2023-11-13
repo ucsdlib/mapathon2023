@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -43,7 +43,7 @@ body::before {
 
 #intro h1 {
     color: #182d4c;
-    font-weight: 800;
+    font-weight: 900;
     font-size: 37px;
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.427); 
 }
@@ -51,14 +51,13 @@ body::before {
 #intro p {
     color: #182d4c;
     margin-bottom: 10px;
-    font-weight: 600;
-    font-size: 17px;
+    font-size: 15px;
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.427); 
 }
 
 #intro h3 {
     color: #182d4c;
-    font-weight: 800;
+    font-weight: 900;
     font-size: 20px;
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.427); 
 }
